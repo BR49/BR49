@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👔 Just finished the AiCore career program.
+👔 Data Scientist at AiCore.
 
 📚 Graduated from the Queen Mary University Of London with an Master's in Artificial Intelligence.
 
